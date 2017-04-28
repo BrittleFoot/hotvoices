@@ -3,11 +3,11 @@
 
   "name": "VK Voice Message Hot Keys",
   "description": "This extension adds 'Touch to speech' hot key in vk.com  messaging",
-  "version": "1.0",
+  "version": "1.0.1",
 
   "content_scripts": [
     {
-      "matches": ["https://vk.com/im?sel=*"],
+      "matches": ["https://vk.com/im?*"],
       "js": ["keys.js"]
     }
   ],
@@ -17,6 +17,6 @@
     "default_popup": "help.html"
   },
   "permissions": [
-    "https://vk.com/im?sel=*"
+    "https://vk.com/im?*"
   ]
 }
