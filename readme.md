@@ -4,5 +4,7 @@
 
 ## КУДАЖАТЬЯНЕПАНИМАЮ
 
-Alt+V пока что единственный доступный хот-кей он отвечает за начало записи и отправку её же.
+**Alt+V** пока что единственный доступный хот-кей он отвечает за начало записи и отправку её же.
  
+## Сртаница в Chrome Store
+**__ [ТЫК](https://chrome.google.com/webstore/detail/vk-voice-message-hot-keys/hgilndgnmcgbgigmafaomonmonhplapf?hl=ru) __**
